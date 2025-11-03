@@ -1,2 +1,19 @@
-# hate-speech-detection-RAG
-The project explores methods for improving hate speech detection models by integrating awareness of different cultural and religious viewpoints, and examines whether retrieval-augmented approaches can help reduce bias.
+# Investigation of Hate Speech Detection Model through religious lens
+
+This repository contains my master's dissertation project under Prof. Simona Frenda.  
+The goal is to build a **Retrieval-Augmented, perspective-aware NLP model** for hate speech detection using the **UC Berkeley Measuring Hate Speech dataset**.
+
+## Objectives
+- Analyse perspectivist annotations (multiple annotators, metadata).
+- Train baseline Transformer (BERT/XLM-R).
+- Develop Retrieval-Augmented model integrating cultural/contextual information.
+- Evaluate fairness, perspective alignment, and bias.
+
+## Current Status
+- [x] Repository setup  
+- [ ] Environment configuration  
+- [ ] Baseline implementation  
+- [ ] RAG integration  
+
+## References
+Dataset: [UC Berkeley Measuring Hate Speech](https://huggingface.co/datasets/ucberkeley-dlab/measuring-hate-speech)
