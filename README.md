@@ -12,7 +12,7 @@ The goal is to build a **Retrieval-Augmented, perspective-aware NLP model** for 
 ## Current Status
 - [x] Repository setup  
 - [x] Environment configuration
-- [ ] Exploration of dataset
+- [x] Exploration of dataset
 - [ ] Training, validation and test set creation
 - [ ] Model fine-tuning
 - [ ] IMSyPP prediction
