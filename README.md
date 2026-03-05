@@ -13,8 +13,8 @@ The goal is to build a **Retrieval-Augmented, perspective-aware NLP model** for 
 - [x] Repository setup  
 - [x] Environment configuration
 - [x] Exploration of dataset
-- [ ] Training, validation and test set creation (wednesday 11th feb)
-- [ ] Model training (12th feb - 18th feb)
+- [x] Training, validation and test set creation (wednesday 11th feb)
+- [x] Model training (12th feb - 18th feb)
 - [ ] Model Validation and testing (19th feb - 20th feb)
 - [ ] IMSyPP prediction (21th feb - 25th feb)
 - [ ] Quantitative analysis (26th feb - 4th March)
